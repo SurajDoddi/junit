@@ -10,7 +10,7 @@ public class testAddString {
 	public void test() {
 		//fail("Not yet implemented");
 		junitFunctions junit = new junitFunctions();
-		String result = junit.addstrings("Majjari", "Gowtham");
-		assertEquals("MajjariGowtham",result);
+		String result = junit.addstrings("Doddi", "Suraj");
+		assertEquals("DoddiSuraj",result);
 	}
 	}
